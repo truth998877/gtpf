@@ -1,1 +1,1 @@
-# Gas Turbine Performance in fortran
+# Gas Turbine Performance in FORTRAN
